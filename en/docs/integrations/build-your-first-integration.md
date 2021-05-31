@@ -27,14 +27,14 @@ Follow the procedure below to configure and start the **GitHub New Issue to Goog
     9. In the **Worksheet Name** field, enter `Sheet1`.
 6. Click **Save**.
  
-       ![Save Configuration](../assets/img/integrations/configurations-panel.png){.cInlineImage-half}
+       ![Save Configuration](../assets/img/integrations/configurations-panel.png)
     
     Now you have configured the integration, and you are ready to start it.
 
 7. Click **Start**. 
    The following logs appear to indicate that the integration is starting:
   
-       ![Integration is Starting](../assets/img/integrations/integration-starting.png){.cInlineImage-half}
+       ![Integration is Starting](../assets/img/integrations/integration-starting.png) {.cInlineImage-half}
     
     The following message indicates that the integration has started and is running:
 
