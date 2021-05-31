@@ -34,11 +34,11 @@ Follow the procedure below to configure and start the **GitHub New Issue to Goog
 7. Click **Start**. 
    The following logs appear to indicate that the integration is starting:
   
-       ![Integration is Starting](../assets/img/integrations/integration-starting.png) {.cInlineImage-half}
+       ![Integration is Starting](../assets/img/integrations/integration-starting.png)
     
     The following message indicates that the integration has started and is running:
 
-       ![Integration Started](../assets/img/integrations/integration-started.png){.cInlineImage-full}
+       ![Integration Started](../assets/img/integrations/integration-started.png)
 
 Now the **GitHub New Issue to Google Sheets Row** integration is successfully configured and running.
 
@@ -48,13 +48,13 @@ Follow the procedure below to try out the integration:
 1. Go to the GitHub repository you specified when configuring the integration and create two new issues.
 2. Go to the Choreo Console and take a look at the **Execution History** of the configured integration.
  
-       ![Execution History](../assets/img/integrations/execution-history.png){.cInlineImage-full}
+       ![Execution History](../assets/img/integrations/execution-history.png)}
 
      You can see two executions. These are a result of creating new issues in the GitHub repository.
 
 3. Go to the `Sample GitHub Integration` spreadsheet in your Google account and take a look at `Sheet1`.
  
-       ![Spreadsheet](../assets/img/integrations/spreadsheet.png){.cInlineImage-full}
+       ![Spreadsheet](../assets/img/integrations/spreadsheet.png)
 
      You can see two entries with details of the GitHub issues you created.
 
