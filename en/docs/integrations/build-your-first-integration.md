@@ -24,7 +24,7 @@ Follow the procedure below to configure and start the **GitHub New Issue to Goog
     6. Select the Google account you want to use in the integration.
     7. In the access request page that opens, click **Allow** to proceed with the selected Google account.
     8. In the **Spreadsheet Name** field, select `Sample GitHub Integration`.
-    9. In the **Worksheet Name** field, enter `Sheet1`.
+    9. In theeeeee **Worksheet Name** field, enter `Sheet1`.
 6. Click **Save**.
  
        ![Save Configuration](../assets/img/integrations/configurations-panel.png)
