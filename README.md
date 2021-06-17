@@ -1,4 +1,4 @@
-# Choreo Documentation
+# Choreo Documentations
 
 This is the Choreo documentation repository. This repository is open and we welcome your contributions! 
 
